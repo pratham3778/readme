@@ -2,25 +2,32 @@
   <img src="https://i.postimg.cc/rpfXzvTb/git-header.png" alt="Master Header" width="100%">
 </p>
 
-<h1 align="center">Hi 👋, I'm Pratham Tanpure a passionate Java developer</h1>
+<h1 align="center">Hello World, I'm Pratham Tanpure</h1>
 
-- 👨‍💻 I’m currently a student in **Information Technology at Anantrao Pawar College of Engineering and Research.**
+
+- 👨‍💻 I’m currently a student in **Information Technology at Anantrao Pawar College of Engineering and Research, Pune.**
 
 - 📫 **pratham3778@gmail.com**
 
-- ⚡ **Improvise, Adapt, Overcome**
+- ⚡ **Whatever I do, I do with perfection, Take work ethics very seriously, Loves to connect with people**
+  
+- 
+  · <a href="https://drive.google.com/file/d/1PPXgIYmONmOLtWcrllv_F7JYs5Dsp9X_/view?usp=drive_link">Resume</a>
+ · 
+<br>
 
 **I am open to**:
 
 - any collaboration work,
-- backend projects(development),
+- backend projects(JAVA),
 - internships.
 
 
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratham-tanpure/)&nbsp;
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/pratham3778/)&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pratham.tanpure/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pratham.tanpure/)&nbsp;
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pratham3778@gmail.com)&nbsp;
 
 
 ## Skills:
