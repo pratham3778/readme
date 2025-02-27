@@ -2,8 +2,7 @@
   <img src="https://i.postimg.cc/rpfXzvTb/git-header.png" alt="Master Header" width="100%">
 </p>
 
-<h1 align="center">Hi 👋, I'm Pratham Tanpure</h1>
-<h3 align="center">A passionate Java developer from Pune,India</h3>
+<h1 align="center">Hi 👋, I'm Pratham Tanpure a passionate Java developer</h1>
 
 - 👨‍💻 I’m currently a student in **Information Technology at Anantrao Pawar College of Engineering and Research.**
 
@@ -11,9 +10,18 @@
 
 - ⚡ **Improvise, Adapt, Overcome**
 
+**I am open to**:
+
+- any collaboration work,
+- backend projects(development),
+- internships.
+
+
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratham-tanpure/)&nbsp;
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/pratham3778/)&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pratham.tanpure/)
+
 
 ## Skills:
 
@@ -47,6 +55,18 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)&nbsp;
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratham3778&show_icons=true&locale=en&layout=compact" alt="pratham3778" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratham3778&show_icons=true&locale=en" alt="pratham3778" /></p>
+
+## Github-Stats:
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pratham3778&show_icons=true&locale=en&layout=compact" alt="pratham3778" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=pratham3778&show_icons=true&locale=en" alt="pratham3778" />
+      </td>
+    </tr>
+  </table>
+</div>
