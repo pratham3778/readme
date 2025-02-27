@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pratham Tanpure</h1>
 <h3 align="center">A passionate Java developer from Pune,India</h3>
 
-- 👨‍💻 I’m currently a student **in Information Technology at Anntrao Pawar College of Engineering and Research.**
+- 👨‍💻 I’m currently a student in **Information Technology at Anantrao Pawar College of Engineering and Research.**
 
 - 📫 **pratham3778@gmail.com**
 
