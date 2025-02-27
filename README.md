@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i.postimg.cc/rpfXzvTb/git-header.png" alt="Master Header" width="100%">
+</p>
+
 <h1 align="center">Hi 👋, I'm Pratham Tanpure</h1>
 <h3 align="center">A passionate Java developer from Pune,India</h3>
 
@@ -20,5 +24,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratham3778&show_icons=true&locale=en&layout=compact" alt="pratham3778" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratham3778&show_icons=true&locale=en" alt="pratham3778" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratham3778&" alt="pratham3778" /></p>
