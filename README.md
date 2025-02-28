@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center"> 
   <img src="https://i.postimg.cc/rpfXzvTb/git-header.png" alt="Master Header" width="100%">
 </p>
 
